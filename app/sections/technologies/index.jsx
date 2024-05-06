@@ -18,7 +18,7 @@ export function TechnologiesSection() {
 					tabIndex="0"
 					className="my-5 text-2xl"
 					style={{
-						transform: isTextInView ? "none" : "translateX(-200px)",
+						transform: isTextInView ? "none" : "translateY(-200px)",
 						opacity: isTextInView ? 1 : 0,
 						transition: "all 0.9s cubic-bezier(0.17, 0.55, 0.55, 1) 0.5s"
 					}}
