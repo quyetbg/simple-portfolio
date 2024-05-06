@@ -1,9 +1,9 @@
-const author = "Quyet Novatchii";
+const author = "Quyet James";
 const description =
 	"Software developer from Moldova, Republic of, who loves to develop beautiful websites, single page applications, customer relationship management or code from scratch using React and Next.js";
-const url = "https://Quyet-novatchii.netlify.app";
+const url = "https://simple-portfolio-omega.vercel.app/";
 export const AppMetadata = {
-	metadataBase: new URL("https://Quyet-novatchii.netlify.app/"),
+	metadataBase: new URL("https://simple-portfolio-omega.vercel.app//"),
 	title: {
 		default: `Portfolio | ${author}`,
 		template: `%s | ${author}`
@@ -30,13 +30,13 @@ export const AppMetadata = {
 		siteName: `${author} | Portfolio`,
 		images: [
 			{
-				url: "https://Quyet-novatchii.netlify.app/screenshot.webp",
+				url: "https://simple-portfolio-omega.vercel.app//screenshot.webp",
 				width: 800,
 				height: 600,
 				alt: "My personal portfolio website"
 			},
 			{
-				url: "https://Quyet-novatchii.netlify.app/screenshot.webp",
+				url: "https://simple-portfolio-omega.vercel.app//screenshot.webp",
 				width: 1800,
 				height: 1600,
 				alt: "My personal portfolio website"
